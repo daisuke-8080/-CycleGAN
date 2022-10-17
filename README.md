@@ -1,1 +1,3 @@
-# -CycleGAN
+# 画像を吉田博の風景画に変換するCycleGAN
+ 
+ CycleGANについての勉強のアウトプットのためのに、画像を吉田博の風景画に変換するCycleGANをipynb(PythonNotebook)で作成しました。
